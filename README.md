@@ -17,9 +17,7 @@ A simple Streamlit website to calculate Body Mass Index (BMI).
    streamlit run Access_Calculator/bmi_calculator.py
    ```
 
-## Deploy with Streamlit
-- Deploy on Streamlit Cloud by pushing this folder to a GitHub repo.
-- Connect the repo in Streamlit Cloud and use `app.py` as the main file.
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/efdb2e20-99ab-4804-a3ef-6c48936b9f52" />
 
 ## Notes
 - BMI is a general screening tool, not a medical diagnosis.
