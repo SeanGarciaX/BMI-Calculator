@@ -14,7 +14,7 @@ A simple Streamlit website to calculate Body Mass Index (BMI).
    ```
 2. Start the app:
    ```bash
-   streamlit run bmi_calculator.py
+   streamlit run Access_Calculator/bmi_calculator.py
    ```
 
 ## Deploy with Streamlit
